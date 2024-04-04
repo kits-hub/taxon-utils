@@ -2,10 +2,10 @@
 <hr>
 
 #### install
+
+```
 git clone https://github.com/kits-hub/taxon-utils
 cd taxon-utils && make
-```
-
 ```
 
 #### Usage
